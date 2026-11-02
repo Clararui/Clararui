@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">第青川 · AI PM · AI 测评与 AI 提效</title>
+  <desc id="desc">第青川，AI PM。AI 原住民，专注 AI 测评与 AI 提效。</desc>
+  <rect x="1" y="1" width="1278" height="358" rx="20" fill="#111315" stroke="#3b3e42"/>
+  <path d="M1 64H1279" stroke="#3b3e42"/>
+  <g font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="48" y="40" font-size="14" letter-spacing="2" fill="#a8adb4">GITHUB / CLARARUI</text>
+    <text x="64" y="164" font-size="64" font-weight="700" fill="#f5f6f8">第青川</text>
+    <text x="66" y="218" font-size="28" fill="#c3c7cd">AI PM</text>
+    <text x="66" y="254" font-size="20" fill="#a8adb4">AI 原住民 / AI native</text>
+    <path d="M850 116V270" stroke="#3b3e42"/>
+    <text x="914" y="157" font-size="32" font-weight="600" fill="#e8eaed">AI 测评</text>
+    <text x="916" y="190" font-size="18" fill="#a8adb4">AI evaluations</text>
+    <text x="914" y="237" font-size="32" font-weight="600" fill="#e8eaed">AI 提效</text>
+    <text x="916" y="270" font-size="18" fill="#a8adb4">AI-powered productivity</text>
+    <path d="M64 302H1216" stroke="#3b3e42"/>
+  </g>
+</svg>
